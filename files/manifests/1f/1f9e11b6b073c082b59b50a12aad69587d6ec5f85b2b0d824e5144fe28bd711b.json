@@ -1,0 +1,28 @@
+{
+  "schema": "myind.file/1",
+  "sha256": "1f9e11b6b073c082b59b50a12aad69587d6ec5f85b2b0d824e5144fe28bd711b",
+  "size": 14532228,
+  "name": "Video 2026-11-23 7rm9g6.mp4",
+  "mime": "video/mp4",
+  "kind": "video",
+  "folder": "/",
+  "takenAt": "2026-11-23T16:20:04.000Z",
+  "addedAt": "2026-11-25T01:39:24.330734Z",
+  "width": null,
+  "height": null,
+  "durationSec": null,
+  "thumb": "files/thumbs/1f/1f9e11b6b073c082b59b50a12aad69587d6ec5f85b2b0d824e5144fe28bd711b.jpg",
+  "item": null,
+  "description": null,
+  "tags": [],
+  "device": "phone-eb7f5a",
+  "addedBy": "shaantanu9",
+  "parts": [
+    {
+      "release": "myind-blobs-0001",
+      "assetId": 789610221,
+      "name": "1f9e11b6b073c082b59b50a12aad69587d6ec5f85b2b0d824e5144fe28bd711b.part000",
+      "size": 14532228
+    }
+  ]
+}

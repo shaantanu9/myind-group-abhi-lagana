@@ -1,0 +1,28 @@
+{
+  "schema": "myind.file/1",
+  "sha256": "978b759fbc78cc819a351bf72f8260e11b84990f18fd3ab005f88baf06e03f86",
+  "size": 7762095,
+  "name": "Video 2026-11-23 6tfq18.mp4",
+  "mime": "video/mp4",
+  "kind": "video",
+  "folder": "/",
+  "takenAt": "2026-11-23T16:19:25.000Z",
+  "addedAt": "2026-11-25T01:39:36.245108Z",
+  "width": null,
+  "height": null,
+  "durationSec": null,
+  "thumb": "files/thumbs/97/978b759fbc78cc819a351bf72f8260e11b84990f18fd3ab005f88baf06e03f86.jpg",
+  "item": null,
+  "description": null,
+  "tags": [],
+  "device": "phone-eb7f5a",
+  "addedBy": "shaantanu9",
+  "parts": [
+    {
+      "release": "myind-blobs-0001",
+      "assetId": 789611399,
+      "name": "978b759fbc78cc819a351bf72f8260e11b84990f18fd3ab005f88baf06e03f86.part000",
+      "size": 7762095
+    }
+  ]
+}

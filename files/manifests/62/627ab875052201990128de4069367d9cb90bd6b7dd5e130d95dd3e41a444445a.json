@@ -1,0 +1,28 @@
+{
+  "schema": "myind.file/1",
+  "sha256": "627ab875052201990128de4069367d9cb90bd6b7dd5e130d95dd3e41a444445a",
+  "size": 9597584,
+  "name": "Video 2026-11-23 fh5lbp.mp4",
+  "mime": "video/mp4",
+  "kind": "video",
+  "folder": "/",
+  "takenAt": "2026-11-23T16:20:13.000Z",
+  "addedAt": "2026-11-25T01:38:52.362111Z",
+  "width": null,
+  "height": null,
+  "durationSec": null,
+  "thumb": "files/thumbs/62/627ab875052201990128de4069367d9cb90bd6b7dd5e130d95dd3e41a444445a.jpg",
+  "item": null,
+  "description": null,
+  "tags": [],
+  "device": "phone-eb7f5a",
+  "addedBy": "shaantanu9",
+  "parts": [
+    {
+      "release": "myind-blobs-0001",
+      "assetId": 789608308,
+      "name": "627ab875052201990128de4069367d9cb90bd6b7dd5e130d95dd3e41a444445a.part000",
+      "size": 9597584
+    }
+  ]
+}

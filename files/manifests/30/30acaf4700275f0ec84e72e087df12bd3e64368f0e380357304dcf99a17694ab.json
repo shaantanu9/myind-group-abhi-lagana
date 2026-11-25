@@ -1,0 +1,28 @@
+{
+  "schema": "myind.file/1",
+  "sha256": "30acaf4700275f0ec84e72e087df12bd3e64368f0e380357304dcf99a17694ab",
+  "size": 15774258,
+  "name": "Video 2026-11-23 4gqazh.mp4",
+  "mime": "video/mp4",
+  "kind": "video",
+  "folder": "/",
+  "takenAt": "2026-11-23T16:19:34.000Z",
+  "addedAt": "2026-11-25T01:39:31.497922Z",
+  "width": null,
+  "height": null,
+  "durationSec": null,
+  "thumb": "files/thumbs/30/30acaf4700275f0ec84e72e087df12bd3e64368f0e380357304dcf99a17694ab.jpg",
+  "item": null,
+  "description": null,
+  "tags": [],
+  "device": "phone-eb7f5a",
+  "addedBy": "shaantanu9",
+  "parts": [
+    {
+      "release": "myind-blobs-0001",
+      "assetId": 789611144,
+      "name": "30acaf4700275f0ec84e72e087df12bd3e64368f0e380357304dcf99a17694ab.part000",
+      "size": 15774258
+    }
+  ]
+}

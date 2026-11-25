@@ -1,0 +1,28 @@
+{
+  "schema": "myind.file/1",
+  "sha256": "c2e70c96c428ac0c94186894757ac4eb4b621f175aa9c1728d5ded68236a6678",
+  "size": 149617773,
+  "name": "Video 2026-11-23 384gcx.mp4",
+  "mime": "video/mp4",
+  "kind": "video",
+  "folder": "/",
+  "takenAt": "2026-11-23T16:18:05.000Z",
+  "addedAt": "2026-11-25T01:40:54.821975Z",
+  "width": null,
+  "height": null,
+  "durationSec": null,
+  "thumb": "files/thumbs/c2/c2e70c96c428ac0c94186894757ac4eb4b621f175aa9c1728d5ded68236a6678.jpg",
+  "item": null,
+  "description": null,
+  "tags": [],
+  "device": "phone-eb7f5a",
+  "addedBy": "shaantanu9",
+  "parts": [
+    {
+      "release": "myind-blobs-0001",
+      "assetId": 789611548,
+      "name": "c2e70c96c428ac0c94186894757ac4eb4b621f175aa9c1728d5ded68236a6678.part000",
+      "size": 149617773
+    }
+  ]
+}
