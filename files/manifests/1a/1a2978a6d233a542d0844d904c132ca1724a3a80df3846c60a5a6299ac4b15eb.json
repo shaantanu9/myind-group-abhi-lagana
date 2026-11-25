@@ -1,0 +1,28 @@
+{
+  "schema": "myind.file/1",
+  "sha256": "1a2978a6d233a542d0844d904c132ca1724a3a80df3846c60a5a6299ac4b15eb",
+  "size": 3706928,
+  "name": "20261123_202449.jpg",
+  "mime": "image/jpeg",
+  "kind": "photo",
+  "folder": "/",
+  "takenAt": "2026-11-23T14:54:50.000Z",
+  "addedAt": "2026-11-25T02:07:22.010094Z",
+  "width": null,
+  "height": null,
+  "durationSec": null,
+  "thumb": "files/thumbs/1a/1a2978a6d233a542d0844d904c132ca1724a3a80df3846c60a5a6299ac4b15eb.jpg",
+  "item": null,
+  "description": null,
+  "tags": [],
+  "device": "phone-4c24f9",
+  "addedBy": "omchhaya75",
+  "parts": [
+    {
+      "release": "myind-blobs-0001",
+      "assetId": 789680047,
+      "name": "1a2978a6d233a542d0844d904c132ca1724a3a80df3846c60a5a6299ac4b15eb.part000",
+      "size": 3706928
+    }
+  ]
+}
