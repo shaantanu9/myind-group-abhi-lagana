@@ -1,0 +1,28 @@
+{
+  "schema": "myind.file/1",
+  "sha256": "d32b169eea7c75dc152010cc6ce37573bae01a4c309d88b95c702ab8714840e1",
+  "size": 4678246,
+  "name": "Photo 2026-11-22 4c1rgc.jpg",
+  "mime": "image/jpeg",
+  "kind": "photo",
+  "folder": "/",
+  "takenAt": "2026-11-22T05:48:51.000Z",
+  "addedAt": "2026-11-25T01:58:41.028576Z",
+  "width": null,
+  "height": null,
+  "durationSec": null,
+  "thumb": "files/thumbs/d3/d32b169eea7c75dc152010cc6ce37573bae01a4c309d88b95c702ab8714840e1.jpg",
+  "item": null,
+  "description": null,
+  "tags": [],
+  "device": "phone-eb7f5a",
+  "addedBy": "shaantanu9",
+  "parts": [
+    {
+      "release": "myind-blobs-0001",
+      "assetId": 789656518,
+      "name": "d32b169eea7c75dc152010cc6ce37573bae01a4c309d88b95c702ab8714840e1.part000",
+      "size": 4678246
+    }
+  ]
+}
